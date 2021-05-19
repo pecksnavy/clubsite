@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/clubsite/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/clubsite/static/js/main.c3249c6a.chunk.js",
-    "main.js.map": "/clubsite/static/js/main.c3249c6a.chunk.js.map",
+    "main.css": "/clubsite/static/css/main.1da1784d.chunk.css",
+    "main.js": "/clubsite/static/js/main.3c9f0cf0.chunk.js",
+    "main.js.map": "/clubsite/static/js/main.3c9f0cf0.chunk.js.map",
     "runtime-main.js": "/clubsite/static/js/runtime-main.baf0d42e.js",
     "runtime-main.js.map": "/clubsite/static/js/runtime-main.baf0d42e.js.map",
     "static/js/2.d41f468e.chunk.js": "/clubsite/static/js/2.d41f468e.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.698057f6.chunk.js": "/clubsite/static/js/3.698057f6.chunk.js",
     "static/js/3.698057f6.chunk.js.map": "/clubsite/static/js/3.698057f6.chunk.js.map",
     "index.html": "/clubsite/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/clubsite/static/css/main.9d5b29c0.chunk.css.map",
+    "static/css/main.1da1784d.chunk.css.map": "/clubsite/static/css/main.1da1784d.chunk.css.map",
     "static/js/2.d41f468e.chunk.js.LICENSE.txt": "/clubsite/static/js/2.d41f468e.chunk.js.LICENSE.txt",
-    "static/media/logo.ab3e56b9.svg": "/clubsite/static/media/logo.ab3e56b9.svg"
+    "static/media/logo.821dd541.svg": "/clubsite/static/media/logo.821dd541.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.baf0d42e.js",
     "static/js/2.d41f468e.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.c3249c6a.chunk.js"
+    "static/css/main.1da1784d.chunk.css",
+    "static/js/main.3c9f0cf0.chunk.js"
   ]
 }
